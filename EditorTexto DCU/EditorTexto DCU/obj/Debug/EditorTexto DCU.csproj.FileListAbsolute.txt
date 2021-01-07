@@ -1,0 +1,11 @@
+C:\Users\braul\source\repos\EditorTexto DCU\EditorTexto DCU\bin\Debug\EditorTexto DCU.exe.config
+C:\Users\braul\source\repos\EditorTexto DCU\EditorTexto DCU\bin\Debug\EditorTexto DCU.exe
+C:\Users\braul\source\repos\EditorTexto DCU\EditorTexto DCU\bin\Debug\EditorTexto DCU.pdb
+C:\Users\braul\source\repos\EditorTexto DCU\EditorTexto DCU\obj\Debug\EditorTexto DCU.csprojAssemblyReference.cache
+C:\Users\braul\source\repos\EditorTexto DCU\EditorTexto DCU\obj\Debug\EditorTexto_DCU.Form1.resources
+C:\Users\braul\source\repos\EditorTexto DCU\EditorTexto DCU\obj\Debug\EditorTexto_DCU.Properties.Resources.resources
+C:\Users\braul\source\repos\EditorTexto DCU\EditorTexto DCU\obj\Debug\EditorTexto DCU.csproj.GenerateResource.cache
+C:\Users\braul\source\repos\EditorTexto DCU\EditorTexto DCU\obj\Debug\EditorTexto DCU.csproj.CoreCompileInputs.cache
+C:\Users\braul\source\repos\EditorTexto DCU\EditorTexto DCU\obj\Debug\EditorTexto DCU.exe
+C:\Users\braul\source\repos\EditorTexto DCU\EditorTexto DCU\obj\Debug\EditorTexto DCU.pdb
+C:\Users\braul\source\repos\EditorTexto DCU\EditorTexto DCU\obj\Debug\EditorTexto_DCU.Form2.resources
